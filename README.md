@@ -1,8 +1,7 @@
 <div align="center">
-<h1 align="center">Hi 👋, I'm Alan</h1>
-<h3 align="center">backend dev intern golang</h3>
+<h1 align="center">Ure very mutch talk, like quite ocean</h1>
+<h3 align="center">Fun fact: I`m backend dev intern golang</h3>
 
-<h3 align="center">Connect with me:</h3>
 <p align="center">
 </p>
 
